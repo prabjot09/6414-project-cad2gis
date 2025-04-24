@@ -10,7 +10,7 @@ The implementation of our automated CAD 2 GIS conversion is done through **4 key
 
 **Key Notes**:
 - All files are `.ipynb` Jupiter Notebooks with the exception of the preprocessing which is in a single `.py` file.
-- One additional file is done for the end-2-end processing
+- One additional file under the root for the end-2-end processing (note: it only detects error type 1). This code outputs a shapefile which can then be viewed on GIS software.
 
 ---------------------------------
 The following subsections list more details about the provided folders.
