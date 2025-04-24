@@ -28,10 +28,11 @@ The following subsections list more details about the provided folders.
 
 ### ML:
 - Error Detection for Error Type 1:
-  - **[BEST]** SupervisedType1.ipynb: Supervised Techniques to detect this error
-  - UnsupervisedType1.ipynb: Unsupervised Techniques to detect this error
-  - MoreType1ML.ipynb: Mix of additional supervised and unsupervised techniques attempted
+  - **[BEST]** `SupervisedType1.ipynb`: Supervised Techniques to detect this error
+  - `UnsupervisedType1.ipynb`: Unsupervised Techniques to detect this error
+  - `MoreType1ML.ipynb`: Mix of additional supervised and unsupervised techniques attempted
+  - `LSTMType1ML.ipynb`: Alternative LSTM Approach for sequential line data. Worse than supervised approaches.
 - Error Detection for Error Type 2: 
-  - Semi-supervisedType2.ipynb: Semi-Supervised Techniques to detect this error
-  - **[BEST]** SupervisedType2.ipynb: Supervised Techniques to detect this error
-  - UnsupervisedType2.ipynb: Unsupervised Techniques to detect this error
+  - `Semi-supervisedType2.ipynb`: Semi-Supervised Techniques to detect this error
+  - **[BEST]** `SupervisedType2.ipynb`: Supervised Techniques to detect this error
+  - `UnsupervisedType2.ipynb`: Unsupervised Techniques to detect this error
